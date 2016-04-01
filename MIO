@@ -3,4 +3,6 @@ to mantain update this repo i got to gitpull in a local repo and then gitpush th
 
 git remote 
 git checkout: check if the local repo is up to date with the online repo (command must be sent form the right dir)
-
+git commit
+git checkout master
+git remote -v 
